@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: eikon
+Version: 1.1.2
+Summary: Python package for retrieving Eikon data.
+Home-page: https://developers.refinitiv.com/eikon-apis/eikon-data-api
+Author: REFINITIV
+Author-email: UNKNOWN
+License: Apache 2.0
+Requires-Dist: requests (==2.22.0)
+Requires-Dist: requests-async (==0.6.2)
+Requires-Dist: nest-asyncio (==1.0.0)
+Requires-Dist: datetime
+Requires-Dist: pandas (>=0.17.0)
+Requires-Dist: numpy (>=1.11.0)
+Requires-Dist: appdirs (==1.4.3)
+Requires-Dist: python-dateutil
+Requires-Dist: websocket-client
+Requires-Dist: deprecation
+
+The Eikon Data API for Python allows your Python applications to access
+
+
